@@ -1,21 +1,23 @@
 <p align="center">
-<img src="Information/JetrisLogo-Transparent.png" alt="JETRIS LOGO" width="450"/>
-<br />
-[![GitHub](https://img.shields.io/github/license/christalind03/JETRIS)](LICENSE)
-[![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-![GitHub Release (latest by date)](https://img.shields.io/github/v/release/christalind03/JETRIS)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/christalind03/JETRIS)
-<br />
-A 3D soft body Tetris clone featuring single player and multiplayer game modes.
-<br />
-<mark> This repository only contains the game development portions of the project. </mark>
-<br />
-<mark> Multiplayer is disabled for this repository as of August 28, 2022. </mark>
+    <img src="Information/JetrisLogo-Transparent.png" alt="JETRIS LOGO" width="450"/>
+</p>
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/github/license/christalind03/JETRIS">
+    <img alt="Project Status: Active" src="https://www.repostatus.org/badges/latest/active.svg">
+    <img alt="GitHub Release (latest by date)" src="https://img.shields.io/github/v/release/christalind03/JETRIS">
+    <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/christalind03/JETRIS">
+</p>
+<p align="center">
+    A 3D soft body Tetris clone featuring single player and multiplayer game modes.
+</p>
+<p align="center">
+    <b><em> This repository only contains the game development portions of the project. Multiplayer is disabled for this repository as of August 28, 2022. </em></b>
 </p>
 
 # Motivation
 This project was made in two months to display the technical skills and knowledge gained from participating in the TechWise program provided by TalentSprint and sponsored by Google.
 <br />
+
 Wanting to add a fun twist on a classic game, we decided to introduce a new way for Tetris to be played.
 <br />
 
@@ -56,4 +58,4 @@ Additionally, this software uses the following music:
 - [Tetris Theme (Lofi Lia Remix)](https://www.youtube.com/watch?v=6BZv6AEznhA&ab_channel=LofiLia)
 
 # License
-This project is licensed under the MIT license. See LICENSE for more information.
+This project is licensed under the MIT license. See [LICENSE](LICENSE) for more information.
